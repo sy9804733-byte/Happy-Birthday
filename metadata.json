@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Celebration",
+  "description": "An interactive digital birthday card featuring high-fidelity confetti animations, audio synthesis, interactive candle blowout, and a personalized AI birthday wish generator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
